@@ -1,4 +1,9 @@
-﻿int[] sort_Arr = { 3, 62, 5, 16, 4, 10 };
+﻿/*
+Author: Rishika Nidiganti
+Date: 02/28/2024
+Comments: I used the bubble sort algorithm to sort the given array of numbers [3, 62, 5, 16, 4, 10] 
+*/
+int[] sort_Arr = { 3, 62, 5, 16, 4, 10 };
 Console.WriteLine("Here is the original array before sorting: ");
 for (int i = 0; i < sort_Arr.Length; i++)
 {

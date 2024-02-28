@@ -1,6 +1,7 @@
 ﻿/*
 Author: Rishika Nidiganti
 Date: 02/28/2024
+Teammate: Bhavana Tadepalli
 Comments: I used the bubble sort algorithm to sort the given array of numbers [3, 62, 5, 16, 4, 10] 
 */
 int[] sort_Arr = { 3, 62, 5, 16, 4, 10 };
